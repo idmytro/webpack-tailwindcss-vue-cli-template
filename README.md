@@ -1,4 +1,4 @@
-# webpack-vue-cli-template
+# webpack-tailwindcss-vue-cli-template
 
 > Custom vue-cli template, forked from [vuejs-templates/webpack-simple](https://github.com/vuejs-templates/webpack-simple)
 
@@ -10,7 +10,7 @@ This is a project template for [vue-cli](https://github.com/vuejs/vue-cli).
 
 ``` bash
 $ npm install -g vue-cli
-$ vue init idmytro/webpack-vue-cli-template my-project
+$ vue init idmytro/webpack-tailwindcss-vue-cli-template my-project
 $ cd my-project
 $ npm install
 $ npm run dev
