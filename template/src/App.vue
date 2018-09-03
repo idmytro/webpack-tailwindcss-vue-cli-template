@@ -31,6 +31,10 @@ export default {
 </script>
 
 <style>
+@import "tailwindcss/preflight.css";
+@import "tailwindcss/components.css";
+@import "tailwindcss/utilities.css";
+
 #app {
   font-family: 'Avenir', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
